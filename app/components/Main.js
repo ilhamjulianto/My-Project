@@ -4,7 +4,7 @@ import Header from '../components/Header';
 import Note from './Note';
 
 export default class Main extends React.Component {
-
+//commentDariIlham
   constructor(props) {
     super(props)
     this.state = {
